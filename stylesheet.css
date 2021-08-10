@@ -47,6 +47,7 @@ a {
 
 .signup {
   background-color: #239b76;
+  width: 150px;
 }
 
 .facebook {
@@ -56,6 +57,7 @@ a {
 
 .twitter {
   background-color: #55acee;
+  margin-left: 10px;
 }
 
 .btn {
