@@ -18,7 +18,7 @@ a {
 }
 
 .top-wrapper {
-  padding: 180px 0 100px 0;
+  padding: 200px 0 200px 0;
   background-image: url(top3.png);
   background-size: cover;
   color: white;
@@ -143,7 +143,7 @@ header {
 
 .lesson-icon p {
   position: absolute;
-  top: 37%;
+  top: 31%;
   width: 100%;
   color: white;
 }
