@@ -4,7 +4,7 @@
 
 body {
   margin: 0;
-  font-family: "Hiragino Kaku Gothic ProN";
+  font-family: "Hiragino Kaku Gothic ProN";f
 }
 
 a {
@@ -115,6 +115,7 @@ header {
 
 .lesson-wrapper {
   height: 450px;
+  padding-bottom: 10px;
   padding-left: 5%;
   padding-right: 5%;
   background-color: #f7f7f7;
