@@ -208,11 +208,10 @@ footer {
 @media all and (max-width: 1000px) {
   .lesson {
     width: 50%;
-    margin-bottom: 50px;
   }
 
   .lesson-wrapper {
-    height: 800px;
+    height: auto;
   }
 
   footer {
@@ -267,7 +266,7 @@ footer {
   }
 
   .lesson-wrapper {
-    height: 1550px;
+    height: auto;
   }
 
   .message-wrapper .btn {
